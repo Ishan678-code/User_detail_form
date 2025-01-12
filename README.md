@@ -9,3 +9,8 @@ In the table, the users have various options associated in each row i.e. view,ed
 - Used Express.router() method to manage different routes.
 - pdfkit library for generating resume pdf.
 
+# Demonstration
+
+![image](https://github.com/user-attachments/assets/ddd2d12f-15a6-4077-80bd-a2768613450c)
+
+
